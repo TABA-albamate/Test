@@ -1,0 +1,26 @@
+[
+  {
+    "summary": "허슬기 근무",
+    "description": "13-17",
+    "start": {
+      "dateTime": "2025-01-04T13:00:00",
+      "timeZone": "Asia/Seoul"
+    },
+    "end": {
+      "dateTime": "2025-01-04T17:00:00",
+      "timeZone": "Asia/Seoul"
+    }
+  },
+  {
+    "summary": "허슬기 근무",
+    "description": "12-17",
+    "start": {
+      "dateTime": "2025-01-03T12:00:00",
+      "timeZone": "Asia/Seoul"
+    },
+    "end": {
+      "dateTime": "2025-01-03T17:00:00",
+      "timeZone": "Asia/Seoul"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "summary": "박서영 근무",
+    "description": "주차: 3주차, 셀내용: 12-17",
+    "start": {
+      "dateTime": "2025-01-18T12:00:00",
+      "timeZone": "Asia/Seoul"
+    },
+    "end": {
+      "dateTime": "2025-01-18T17:00:00",
+      "timeZone": "Asia/Seoul"
+    }
+  },
+  {
+    "summary": "박서영 근무",
+    "description": "주차: 4주차, 셀내용: 11-15",
+    "start": {
+      "dateTime": "2025-01-24T11:00:00",
+      "timeZone": "Asia/Seoul"
+    },
+    "end": {
+      "dateTime": "2025-01-24T15:00:00",
+      "timeZone": "Asia/Seoul"
+    }
+  }
+]

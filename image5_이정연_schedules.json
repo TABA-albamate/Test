@@ -1,0 +1,74 @@
+[
+  {
+    "summary": "이정연 근무",
+    "description": "주차: 1주차, 셀내용: 13-17",
+    "start": {
+      "dateTime": "2025-01-03T13:00:00",
+      "timeZone": "Asia/Seoul"
+    },
+    "end": {
+      "dateTime": "2025-01-03T17:00:00",
+      "timeZone": "Asia/Seoul"
+    }
+  },
+  {
+    "summary": "이정연 근무",
+    "description": "주차: 1주차, 셀내용: 11-15",
+    "start": {
+      "dateTime": "2025-01-05T11:00:00",
+      "timeZone": "Asia/Seoul"
+    },
+    "end": {
+      "dateTime": "2025-01-05T15:00:00",
+      "timeZone": "Asia/Seoul"
+    }
+  },
+  {
+    "summary": "이정연 근무",
+    "description": "주차: 2주차, 셀내용: 11-15",
+    "start": {
+      "dateTime": "2025-01-09T11:00:00",
+      "timeZone": "Asia/Seoul"
+    },
+    "end": {
+      "dateTime": "2025-01-09T15:00:00",
+      "timeZone": "Asia/Seoul"
+    }
+  },
+  {
+    "summary": "이정연 근무",
+    "description": "주차: 3주차, 셀내용: 11-15",
+    "start": {
+      "dateTime": "2025-01-17T11:00:00",
+      "timeZone": "Asia/Seoul"
+    },
+    "end": {
+      "dateTime": "2025-01-17T15:00:00",
+      "timeZone": "Asia/Seoul"
+    }
+  },
+  {
+    "summary": "이정연 근무",
+    "description": "주차: 4주차, 셀내용: 9-13",
+    "start": {
+      "dateTime": "2025-01-23T09:00:00",
+      "timeZone": "Asia/Seoul"
+    },
+    "end": {
+      "dateTime": "2025-01-23T13:00:00",
+      "timeZone": "Asia/Seoul"
+    }
+  },
+  {
+    "summary": "이정연 근무",
+    "description": "주차: 4주차, 셀내용: 9-13",
+    "start": {
+      "dateTime": "2025-01-24T09:00:00",
+      "timeZone": "Asia/Seoul"
+    },
+    "end": {
+      "dateTime": "2025-01-24T13:00:00",
+      "timeZone": "Asia/Seoul"
+    }
+  }
+]
